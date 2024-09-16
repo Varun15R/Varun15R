@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Varun15R
 - 👀 I’m interested in Data_Analytics
 - 🌱 I’m currently learning Generative_AI_for_Data_Analytics
-- 💞️ I’m looking to collaborate on My_Skills
+- 💞️ I’m looking to collaborate on data analysis projects, Python scripting, Power BI dashboards, and any exciting machine learning or SQL challenges!
 - 📫 How to reach me thisisrvarun@gmail.com
 - ⚡ Fun fact: The first email ever sent was by Ray Tomlinson to himself in 1971. It said "QWERTYUIOP.
 
